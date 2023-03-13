@@ -1,0 +1,4 @@
+bin/kpoc_charger
+etc/init/kpoc_charger.rc
+etc/nfcee_access.xml
+lib/libshowlogo.so
